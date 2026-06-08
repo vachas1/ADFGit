@@ -1,0 +1,15 @@
+{
+	"name": "adf-practice-pro-ci-dev",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35c5b5ea-5621-472e-85bc-5375b4211509",
+		"tenantId": "328f7840-3b94-4bad-a132-c33239020a18"
+	}
+}
